@@ -12,4 +12,4 @@ I'm a fourth-year [Political Economy](https://politicaleconomy.uchicago.edu/) Ph
 
 Prior to my Ph.D., I completed a research fellowship at the University of Chicago's [Urban Labs](https://urbanlabs.uchicago.edu/), a Master's degree at the University of Chicago's [Committee on International Relations](https://cir.uchicago.edu/), and a Bachelor's in International Studies with minor in Statistics at [American University](https://www.american.edu/). 
 
-You can reach me at [blshaver@uchicago.edu]([mailto:blshaver@uchicago.edu). 
+You can reach me at [blshaver@uchicago.edu](mailto:blshaver@uchicago.edu). 
