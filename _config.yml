@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Benjamin Shaver"
 title_separator          : "-"
 name                     : &name "Benjamin Shaver"
-description              : &description "Political Economy Ph.D Student at the University of Chicago"
+description              : &description "Political Economy Ph.D. Student at the University of Chicago"
 url                      : https://benshaver.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Benjamin Shaver"
   avatar           : "BS.jpeg"
-  bio              : "Political Economy Ph.D Student at the University of Chicago"
+  bio              : "Political Economy Ph.D. Student at the University of Chicago"
   location         : "Chicago, IL"
   employer         :
   pubmed           : 
