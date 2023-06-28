@@ -17,4 +17,4 @@ author_profile: true
 Evidence from Paired Public and Elite Surveys and an Experiment with [Adam Zelizer](https://adamzelizer.com/)
 
 ### Work in Progress 
-* Selection and Disunion in Organizational Elites with [Alvaro Delgado Vega](https://sites.google.com/view/alvarodelgadovega/home)
+* Selection and Disunion in Organizational Elites with [\`Alvaro Delgado Vega](https://sites.google.com/view/alvarodelgadovega/home)
