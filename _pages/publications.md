@@ -7,7 +7,7 @@ author_profile: true
 
 
 ### Publications 
-* Randomized evaluation of a school-based, trauma-informed group intervention for young women in Chicago, with Monica P. Bhatt, Jonathan Guryan, Harold A. Pollack, Cris Pinto, Lucia Delgado-Sanchez, Phoebe Lin, Molly Clark, Max Lubell, Makenzi Sumners, and Juan Castrejon 
+* Randomized evaluation of a school-based, trauma-informed group intervention for young women in Chicago, with [Monica P. Bhatt](https://urbanlabs.uchicago.edu/people/monica-bhatt), [Jonathan Guryan](https://sites.northwestern.edu/jonathanguryan/), [Harold A. Pollack](https://crownschool.uchicago.edu/directory/harold-pollack), Cris Pinto, Lucia Delgado-Sanchez, Phoebe Lin, Molly Clark, Max Lubell, Makenzi Sumners, and Juan Castrejon. _Science Advances_, 9(23), 2023. 
 
 ### Working Papers
 
