@@ -17,6 +17,6 @@ author_profile: true
 Evidence from Paired Public and Elite Surveys and an Experiment," with [Adam Zelizer](https://adamzelizer.com/)
 
 ### Work in Progress 
-* "Selection and Disunion in Organizational Elites," with [Álvaro Delgado Vega](https://sites.google.com/view/alvarodelgadovega/home)
+* "Selection and Disunion in Organizational Elites," with [Álvaro Delgado-Vega](https://sites.google.com/view/alvarodelgadovega/home)
 * "Dynamic Policy Experimentation," with [Zhaotian Luo](https://political-science.uchicago.edu/directory/zhaotian-luo)
  
