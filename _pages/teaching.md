@@ -3,7 +3,7 @@ layout: archive
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
-image: /photos/image2.jpeg
+image: /photos/image2.jpg
 ---
 
 ### TA Experience, Harris School of Public Policy, University of Chicago 
