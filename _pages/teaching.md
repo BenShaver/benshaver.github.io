@@ -3,6 +3,7 @@ layout: archive
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
+image: /photos/image2.jpeg
 ---
 
 ### TA Experience, Harris School of Public Policy, University of Chicago 
@@ -12,3 +13,4 @@ author_profile: true
 * Program Evaluation (2022), Master’s Level, [Fiona Burlig](https://www.fionaburlig.com/) 
 * Advanced Microeconomics for Public Policy Analysis II (2022), Ph.D. Level, [Scott Ashworth](https://home.uchicago.edu/~sashwort/)
 
+![]({{ page.image }})
