@@ -21,4 +21,6 @@ Evidence from Paired Public and Elite Surveys and an Experiment," with [Adam Zel
 * "Selection and Disunion in Organizational Elites," with [Álvaro Delgado-Vega](https://sites.google.com/view/alvarodelgadovega/home)
 * "Dynamic Policy Experimentation," with [Zhaotian Luo](https://political-science.uchicago.edu/directory/zhaotian-luo)
  
-![]({{ page.image }})
+| ![]({{ page.image }}) | 
+|:--:|
+| <b>Rocky Mountain National Park - Summer 2023</b>|
