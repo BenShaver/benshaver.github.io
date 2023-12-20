@@ -17,7 +17,7 @@ image: /photos/image1.jpg
 Evidence from Paired Public and Elite Surveys and an Experiment," with [Adam Zelizer](https://adamzelizer.com/) (Presented at MPSA)
 
 ### Work in Progress 
-* "Repeal and Replace"
+* "Policy Replacement by Partially-Informed Parties"
 * "A Model of Succession," with [Álvaro Delgado-Vega](https://sites.google.com/view/alvarodelgadovega/home) (Presented at the Harris School of Public Policy and the University of Bern)
 * "Dynamic Policy Experimentation," with [Zhaotian Luo](httpxs://political-science.uchicago.edu/directory/zhaotian-luo)
  
