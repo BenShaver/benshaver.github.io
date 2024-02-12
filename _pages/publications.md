@@ -12,14 +12,14 @@ image: /photos/image1.jpg
 
 ### Working Papers
 * "Signaling Competence Through Policy Revision"
-   * Presented at the University of Chicago Political Science Department
+* Presented at the University of Chicago Political Science Department
 * "A Model of Succession," with [Álvaro Delgado-Vega](https://sites.google.com/view/alvarodelgadovega/home) 
-   * Presented at the University of Chicago Harris School and the University of Bern 
+* Presented at the University of Chicago Harris School and the University of Bern 
 * "The Minimal Effects of Public Health Campaigns on Travel During the COVID Pandemic," with [Adam Zelizer](https://adamzelizer.com/), [Ethan Bueno de Mesquita](https://voices.uchicago.edu/ethanbdm/), and [Mehdi Shadmehr](https://www.mehdishadmehr.com/), _Under Review_
 * "Political Communication with Fact-Checking" 
-   * Presented at MPSA, the University of Chicago Harris School, and the University of Chicago Center for Effective Government
+* Presented at MPSA, the University of Chicago Harris School, and the University of Chicago Center for Effective Government
 * "How Representative Are School Board Members of Local and National Public Opinion? Evidence from Paired Public and Elite Surveys and an Experiment," with [Adam Zelizer](https://adamzelizer.com/) 
-   * Presented at MPSA 
+* Presented at MPSA 
 
 ### Work in Progress 
 * "Dynamic Policy Experimentation," with [Zhaotian Luo](httpxs://political-science.uchicago.edu/directory/zhaotian-luo)
