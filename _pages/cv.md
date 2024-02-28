@@ -8,7 +8,7 @@ redirect_from:
 image: /photos/image3.jpg
 ---
 
-You can access a PDF of my CV [here](http://benshaver.github.io/files/BSCV.pdf).
+You can access my CV [here](http://benshaver.github.io/files/BSCV.pdf) (Updated February 2024).
 
 | <b>Death Valley National Park - Winter 2021</b>|
 |:--:|
