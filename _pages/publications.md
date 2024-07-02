@@ -15,7 +15,7 @@ image: /photos/image1.jpg
 	- Presented at the University of Chicago Political Science Department, the University of Chicago Harris School, the University of Chicago Center for Effective Government, MPSA, and SIOE
 * "[A Model of Succession](http://benshaver.github.io/files/Succession ADBS March 24.pdf)," with [Álvaro Delgado-Vega](https://sites.google.com/view/alvarodelgadovega/home) 
 	- Presented at the University of Chicago Harris School, the University of Bern Economics Department, MPSA, and SIOE
-* "The Minimal Effects of Public Health Campaigns on Travel During the COVID Pandemic," with [Adam Zelizer](https://adamzelizer.com/), [Ethan Bueno de Mesquita](https://voices.uchicago.edu/ethanbdm/), and [Mehdi Shadmehr](https://www.mehdishadmehr.com/) 
+* "The Minimal Effects of Public Health Campaigns on Travel During the COVID Pandemic," with [Adam Zelizer](https://adamzelizer.com/), [Ethan Bueno de Mesquita](https://voices.uchicago.edu/ethanbdm/), and [Mehdi Shadmehr](https://www.mehdishadmehr.com/), _under review_
 * "Political Communication with Fact-Checking" 
 	- Presented at MPSA, the University of Chicago Harris School, and the University of Chicago Center for Effective Government 
 
