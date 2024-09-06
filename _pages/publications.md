@@ -23,7 +23,8 @@ image: /photos/image1.jpg
 
 
 ### Work in Progress 
-* "Dynamic Policy Experimentation," with [Zhaotian Luo](httpxs://political-science.uchicago.edu/directory/zhaotian-luo)
+* "Dynamic Policy Experimentation," with [Zhaotian Luo](https://political-science.uchicago.edu/directory/Zhaotian-Luo)
+* "Dynamic Policy Development and Implementation," with  [Daniel Gibbs](https://daniel-gibbs.com/)
 * "How Representative Are School Board Members of Local and National Public Opinion? Evidence from Paired Public and Elite Surveys and an Experiment," with [Adam Zelizer](https://harris.uchicago.edu/directory/adam-zelizer)
 	- Presented at MPSA
  
