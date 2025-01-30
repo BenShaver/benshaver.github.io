@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 --- 
 
-I'm a [Political Economy](https://politicaleconomy.uchicago.edu/) Ph.D. candidate at the University of Chicago's [Harris School of Public Policy](https://harris.uchicago.edu/) and [Department of Political Science](https://political-science.uchicago.edu/). My primary research interests are political economy and applied game theory. I am currently working on research on policy reform, the effect of fact-checking on cheap-talk communication, career concerns and succession in political organizations, and dynamic policy experimentation. 
+I'm a [Political Economy](https://politicaleconomy.uchicago.edu/) Ph.D. candidate at the University of Chicago's [Harris School of Public Policy](https://harris.uchicago.edu/) and [Department of Political Science](https://political-science.uchicago.edu/). Starting in July 2025, I will be a Postdoctoral Fellow at Northwestern University's [Kellogg School of Management](https://www.kellogg.northwestern.edu/). 
 
-Before my Ph.D., I completed a research fellowship at the University of Chicago's [Urban Labs](https://urbanlabs.uchicago.edu/), a Master's degree at the University of Chicago's [Committee on International Relations](https://cir.uchicago.edu/), and a Bachelor's in International Studies with a minor in Statistics at [American University](https://www.american.edu/). 
+My primary research interests are in the fields of political economy and applied game theory. 
 
 You can reach me at [blshaver@uchicago.edu](mailto:blshaver@uchicago.edu). 
