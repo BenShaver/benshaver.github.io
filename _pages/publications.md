@@ -11,7 +11,7 @@ image: /photos/image1.jpg
 * "[Randomized evaluation of a school-based, trauma-informed group intervention for young women in Chicago](https://www.science.org/doi/10.1126/sciadv.abq2077)," with [Monica P. Bhatt](https://urbanlabs.uchicago.edu/people/monica-bhatt), [Jonathan Guryan](https://sites.northwestern.edu/jonathanguryan/), [Harold A. Pollack](https://crownschool.uchicago.edu/directory/harold-pollack), Cris Pinto, Lucia Delgado-Sanchez, Phoebe Lin, Molly Clark, Max Lubell, Makenzi Sumners, and Juan Castrejon. _Science Advances_, 9(23), 2023. 
 
 ### Working Papers
-* "[Signaling Ability Through Policy Change](http://benshaver.github.io/files/Ability BS.pdf)," _Under review_
+* "[Signaling Ability Through Policy Change](http://benshaver.github.io/files/Ability BS.pdf),"
 	- Presentations: University of Chicago Political Science Department, University of Chicago Harris School, University of Chicago Center for Effective Government, MPSA, SIOE, and APSA
 * "[A Model of Succession and Policy Concerns](http://benshaver.github.io/files/Succession ADBS.pdf)," with [Álvaro Delgado-Vega](https://sites.google.com/view/alvarodelgadovega/home), _R&R Economic Journal_
 	- Presentations: University of Chicago Harris School, University of Bern Economics Department, Washington University in St. Louis Political Science Department, MPSA, SIOE, and APSA
