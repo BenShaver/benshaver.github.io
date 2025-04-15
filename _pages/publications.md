@@ -13,7 +13,7 @@ image: /photos/image1.jpg
 ### Working Papers
 * "[Signaling Ability Through Policy Change](http://benshaver.github.io/files/Ability BS.pdf)," _Submitted_
 	- Presentations: University of Chicago Political Science Department, University of Chicago Harris School, University of Chicago Center for Effective Government, MPSA, SIOE, and APSA
-* "[A Model of Succession and Policy Concerns](http://benshaver.github.io/files/Succession ADBS.pdf)," with [Álvaro Delgado-Vega](https://sites.google.com/view/alvarodelgadovega/home), _R&R Economic Journal_
+* "[A Model of Selection and Policy Concerns](http://benshaver.github.io/files/Succession ADBS.pdf)," with [Álvaro Delgado-Vega](https://sites.google.com/view/alvarodelgadovega/home), _R&R Economic Journal_
 	- Presentations: University of Chicago Harris School, University of Bern Economics Department, Washington University in St. Louis Political Science Department, MPSA, SIOE, and APSA
 * "[The Minimal Effects of Public Health Campaigns on Travel During the COVID Pandemic](http://benshaver.github.io/files/Covid Experiment.pdf)," with [Adam Zelizer](https://adamzelizer.com/), [Ethan Bueno de Mesquita](https://voices.uchicago.edu/ethanbdm/), and [Mehdi Shadmehr](https://www.mehdishadmehr.com/), _R&R Statistics and Public Policy_
 * "Political Communication with Fact-Checking" 
