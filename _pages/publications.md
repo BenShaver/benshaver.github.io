@@ -16,7 +16,7 @@ image: /photos/image1.jpg
 * "[A Model of Selection and Policy Concerns](http://benshaver.github.io/files/Succession ADBS.pdf)," with [Álvaro Delgado-Vega](https://sites.google.com/view/alvarodelgadovega/home), _R&R Economic Journal_
 	- Presentations: University of Chicago Harris School, University of Bern Economics Department, Washington University in St. Louis Political Science Department, MPSA, SIOE, and APSA
 * "[The Minimal Effects of Public Health Campaigns on Travel During the COVID Pandemic](http://benshaver.github.io/files/Covid Experiment.pdf)," with [Adam Zelizer](https://adamzelizer.com/), [Ethan Bueno de Mesquita](https://voices.uchicago.edu/ethanbdm/), and [Mehdi Shadmehr](https://www.mehdishadmehr.com/), _R&R Statistics and Public Policy_
-* "Political Communication with Fact-Checking" 
+* "[Cheap Talk with Costly Verification]((http://benshaver.github.io/files/Cheap Talk BS.pdf))" s
 	- Presentations: MPSA, University of Chicago Harris School, and University of Chicago Center for Effective Government 
 * "[Media Freedom, Nationalist Protests, and Audience Costs](http://benshaver.github.io/files/Media DKBS.pdf)," with [David Krosin](https://www.linkedin.com/in/david-krosin-76424510b/), _R&R Journal of Theoretical Politics_
 	- Presentations: Formal Theory Junior Scholar Symposium 
