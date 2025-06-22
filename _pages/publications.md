@@ -27,7 +27,7 @@ image: /photos/image1.jpg
 * "Taking Credit, Avoiding Blame, and Delegation"
 * "Dynamic Policy Development and Implementation," with  [Daniel Gibbs](https://daniel-gibbs.com/)
 * "How Representative Are School Board Members of Local and National Public Opinion? Evidence from Paired Public and Elite Surveys and an Experiment," with [Adam Zelizer](https://harris.uchicago.edu/directory/adam-zelizer)
-	- Presented at MPSA
+	- Presentations: MPSA
  
 | <b>Rocky Mountain National Park - Summer 2023</b>|
 |:--:|
