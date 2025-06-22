@@ -14,7 +14,7 @@ image: /photos/image1.jpg
 * "[A Model of Selection and Policy Concerns](http://benshaver.github.io/files/Succession ADBS.pdf)," with [Álvaro Delgado-Vega](https://sites.google.com/view/alvarodelgadovega/home), _R&R Economic Journal_
 	- Presentations: University of Chicago Harris School, University of Bern Economics Department, Washington University in St. Louis Political Science Department, MPSA, SIOE, and APSA
 * "[Signaling Ability Through Policy Change](http://benshaver.github.io/files/Ability BS.pdf)," _Submitted_
-	- Honorable Mention Best Formal Theory APSA Paper 2025
+	- Honorable Mention Best APSA 2024 Formal Theory Paper 
 	- Presentations: University of Chicago Political Science Department, University of Chicago Harris School, University of Chicago Center for Effective Government, Washington University Conference for Early Career Scholars in Theoretical Political Economy, MPSA, SIOE, and APSA
 * "[Cheap Talk with Costly Verification](http://benshaver.github.io/files/Cheap Talk BS.pdf)," _Submitted_
 	- Presentations: MPSA, University of Chicago Harris School, and University of Chicago Center for Effective Government 
