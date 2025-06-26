@@ -8,35 +8,32 @@ image: /photos/image1.jpg
 
 
 ### Publications 
-* "[Randomized evaluation of a school-based, trauma-informed group intervention for young women in Chicago](https://www.science.org/doi/10.1126/sciadv.abq2077)," with [Monica P. Bhatt](https://urbanlabs.uchicago.edu/people/monica-bhatt), [Jonathan Guryan](https://sites.northwestern.edu/jonathanguryan/), [Harold A. Pollack](https://crownschool.uchicago.edu/directory/harold-pollack), Cris Pinto, Lucia Delgado-Sanchez, Phoebe Lin, Molly Clark, Max Lubell, Makenzi Sumners, and Juan Castrejon. _Science Advances_, 9(23), 2023. 
+<p>"<a href="https://www.science.org/doi/10.1126/sciadv.abq2077">Randomized evaluation of a school-based, trauma-informed group intervention for young women in Chicago</a>," with <a href="https://urbanlabs.uchicago.edu/people/monica-bhatt">Monica P. Bhatt</a>, <a href="https://sites.northwestern.edu/jonathanguryan/">Jonathan Guryan</a>, <a href="https://crownschool.uchicago.edu/directory/harold-pollack">Harold A. Pollack</a>, Cris Pinto, Lucia Delgado-Sanchez, Phoebe Lin, Molly Clark, Max Lubell, Makenzi Sumners, and Juan Castrejon. <em>Science Advances</em>, 9(23), 2023.</p>
 
 ### Working Papers
-### Publications 
-* "[Randomized evaluation of a school-based, trauma-informed group intervention for young women in Chicago](https://www.science.org/doi/10.1126/sciadv.abq2077)," with [Monica P. Bhatt](https://urbanlabs.uchicago.edu/people/monica-bhatt), [Jonathan Guryan](https://sites.northwestern.edu/jonathanguryan/), [Harold A. Pollack](https://crownschool.uchicago.edu/directory/harold-pollack), Cris Pinto, Lucia Delgado-Sanchez, Phoebe Lin, Molly Clark, Max Lubell, Makenzi Sumners, and Juan Castrejon. _Science Advances_, 9(23), 2023.
+<p>"<a href="http://benshaver.github.io/files/Succession ADBS.pdf">A Model of Selection and Policy Concerns</a>," with <a href="https://sites.google.com/view/alvarodelgadovega/home">Álvaro Delgado-Vega</a>, <em>R&R Economic Journal</em></p>
+<div style="margin-left: 40px; margin-top: 2px;">Presentations: University of Chicago Harris School, University of Bern Economics Department, Washington University in St. Louis Political Science Department, MPSA, SIOE, and APSA</div>
 
-### Working Papers
-* "[A Model of Selection and Policy Concerns](http://benshaver.github.io/files/Succession ADBS.pdf)," with [Álvaro Delgado-Vega](https://sites.google.com/view/alvarodelgadovega/home), _R&R Economic Journal_  
-<div style="margin-left: 40px;">Presentations: University of Chicago Harris School, University of Bern Economics Department, Washington University in St. Louis Political Science Department, MPSA, SIOE, and APSA</div>
+<p>"<a href="http://benshaver.github.io/files/Ability BS.pdf">Signaling Ability Through Policy Change</a>," <em>R&R Journal of Politics</em></p>
+<div style="margin-left: 40px; margin-top: 2px;"><em>Honorable Mention Best APSA 2024 Formal Theory Paper</em></div>
+<div style="margin-left: 40px; margin-top: 2px;">Presentations: University of Chicago Political Science Department, University of Chicago Harris School, University of Chicago Center for Effective Government, Washington University Conference for Early Career Scholars in Theoretical Political Economy, MPSA, SIOE, and APSA</div>
 
-* "[Signaling Ability Through Policy Change](http://benshaver.github.io/files/Ability BS.pdf)," _R&R Journal of Politics_  
-<div style="margin-left: 40px;"> _Honorable Mention Best APSA 2024 Formal Theory Paper_ </div>  
-<div style="margin-left: 40px;">Presentations: University of Chicago Political Science Department, University of Chicago Harris School, University of Chicago Center for Effective Government, Washington University Conference for Early Career Scholars in Theoretical Political Economy, MPSA, SIOE, and APSA</div>
+<p>"<a href="http://benshaver.github.io/files/Cheap Talk BS.pdf">Cheap Talk with Costly Verification</a>," <em>Submitted</em></p>
+<div style="margin-left: 40px; margin-top: 2px;">Presentations: MPSA, University of Chicago Harris School, and University of Chicago Center for Effective Government</div>
 
-* "[Cheap Talk with Costly Verification](http://benshaver.github.io/files/Cheap Talk BS.pdf)," _Submitted_  
-<div style="margin-left: 40px;">Presentations: MPSA, University of Chicago Harris School, and University of Chicago Center for Effective Government</div>
+<p>"<a href="http://benshaver.github.io/files/Media DKBS.pdf">Media Freedom, Nationalist Protests, and Audience Costs</a>," with <a href="https://www.linkedin.com/in/david-krosin-76424510b/">David Krosin</a>, <em>R&R Journal of Theoretical Politics</em></p>
+<div style="margin-left: 40px; margin-top: 2px;">Presentations: Formal Theory Junior Scholar Symposium</div>
 
-* "[Media Freedom, Nationalist Protests, and Audience Costs](http://benshaver.github.io/files/Media DKBS.pdf)," with [David Krosin](https://www.linkedin.com/in/david-krosin-76424510b/), _R&R Journal of Theoretical Politics_  
-<div style="margin-left: 40px;">Presentations: Formal Theory Junior Scholar Symposium</div>
-
-* "[The Minimal Effects of Public Health Campaigns on Travel During the COVID Pandemic](http://benshaver.github.io/files/Covid Experiment.pdf)," with [Adam Zelizer](https://adamzelizer.com/), [Ethan Bueno de Mesquita](https://voices.uchicago.edu/ethanbdm/), and [Mehdi Shadmehr](https://www.mehdishadmehr.com/), _R&R Statistics and Public Policy_  
-
-
+<p>"<a href="http://benshaver.github.io/files/Covid Experiment.pdf">The Minimal Effects of Public Health Campaigns on Travel During the COVID Pandemic</a>," with <a href="https://adamzelizer.com/">Adam Zelizer</a>, <a href="https://voices.uchicago.edu/ethanbdm/">Ethan Bueno de Mesquita</a>, and <a href="https://www.mehdishadmehr.com/">Mehdi Shadmehr</a>, <em>R&R Statistics and Public Policy</em></p>
 
 ### Work in Progress
-* "Taking Credit, Avoiding Blame, and Delegation"
-* "Dynamic Policy Development and Implementation," with  [Daniel Gibbs](https://daniel-gibbs.com/)
-* "How Representative Are School Board Members of Local and National Public Opinion? Evidence from Paired Public and Elite Surveys and an Experiment," with [Adam Zelizer](https://harris.uchicago.edu/directory/adam-zelizer)
-	- Presentations: MPSA
+<p>"Taking Credit, Avoiding Blame, and Delegation"</p>
+
+<p>"Dynamic Policy Development and Implementation," with <a href="https://daniel-gibbs.com/">Daniel Gibbs</a></p>
+
+<p>"How Representative Are School Board Members of Local and National Public Opinion? Evidence from Paired Public and Elite Surveys and an Experiment," with <a href="https://harris.uchicago.edu/directory/adam-zelizer">Adam Zelizer</a></p>
+<div style="margin-left: 40px; margin-top: 2px;">Presentations: MPSA</div>
+
  
 | <b>Rocky Mountain National Park - Summer 2023</b>|
 |:--:|
