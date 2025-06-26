@@ -15,8 +15,8 @@ image: /photos/image1.jpg
 <div style="margin-left: 40px; margin-top: 2px;">Presentations: University of Chicago Harris School, University of Bern Economics Department, Washington University in St. Louis Political Science Department, MPSA, SIOE, and APSA</div>
 
 <p>"<a href="http://benshaver.github.io/files/Ability BS.pdf">Signaling Ability Through Policy Change</a>," <em>R&R Journal of Politics</em></p>
-<div style="margin-left: 40px; margin-top: 2px;"><em>Honorable Mention Best APSA 2024 Formal Theory Paper</em></div>
 <div style="margin-left: 40px; margin-top: 2px;">Presentations: University of Chicago Political Science Department, University of Chicago Harris School, University of Chicago Center for Effective Government, Washington University Conference for Early Career Scholars in Theoretical Political Economy, MPSA, SIOE, and APSA</div>
+<div style="margin-left: 40px; margin-top: 2px;"><em>Honorable Mention Best APSA 2024 Formal Theory Paper</em></div>
 
 <p>"<a href="http://benshaver.github.io/files/Cheap Talk BS.pdf">Cheap Talk with Costly Verification</a>," <em>Submitted</em></p>
 <div style="margin-left: 40px; margin-top: 2px;">Presentations: MPSA, University of Chicago Harris School, and University of Chicago Center for Effective Government</div>
@@ -34,6 +34,7 @@ image: /photos/image1.jpg
 <p>"How Representative Are School Board Members of Local and National Public Opinion? Evidence from Paired Public and Elite Surveys and an Experiment," with <a href="https://harris.uchicago.edu/directory/adam-zelizer">Adam Zelizer</a></p>
 <div style="margin-left: 40px; margin-top: 2px;">Presentations: MPSA</div>
 
+<div style="margin-bottom: 20px;"></div>
  
 | <b>Rocky Mountain National Park - Summer 2023</b>|
 |:--:|
