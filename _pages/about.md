@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 --- 
 
-I'm a [Political Economy](https://politicaleconomy.uchicago.edu/) Ph.D. candidate at the University of Chicago's [Harris School of Public Policy](https://harris.uchicago.edu/) and [Department of Political Science](https://political-science.uchicago.edu/). Starting in July 2025, I will be a Postdoctoral Fellow at Northwestern University's [Kellogg School of Management](https://www.kellogg.northwestern.edu/). 
+I'm a Postdoctoral Fellow at Northwestern University's [Kellogg School of Management](https://www.kellogg.northwestern.edu/). My primary research interests are in the fields of political economy and applied game theory. Before beginning at Kelloggs, I earned my Ph.D. in Political Economy from the University of Chicago's [Harris School of Public Policy](https://harris.uchicago.edu/) and [Department of Political Science](https://political-science.uchicago.edu/). 
 
-My primary research interests are in the fields of political economy and applied game theory. 
-
-You can reach me at [blshaver@uchicago.edu](mailto:blshaver@uchicago.edu). 
+You can reach me at [benjamin.shaver@kellogg.northwestern.edu](mailto:benjamin.shaver@kellogg.northwestern.edu). 
