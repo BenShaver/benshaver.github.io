@@ -16,7 +16,7 @@ image: /photos/image1.jpg
 }
 </style>
 
-### Publications and Accepted Papers
+### Published and Accepted Papers
 
 <p class="paper-title">"<a href="http://benshaver.github.io/files/Succession ADBS.pdf">A Model of Selection and Policy Concerns</a>," with <a href="https://sites.google.com/view/alvarodelgadovega/home">Álvaro Delgado-Vega</a>, conditionally accepted at the <em>Economic Journal</em></p>
 <div class="presentation-detail">Presentations: University of Chicago Harris School, University of Bern Economics Department, Washington University in St. Louis Political Science Department, MPSA, SIOE, and APSA</div>
