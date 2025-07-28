@@ -25,7 +25,7 @@ image: /photos/image1.jpg
 
 ### Working Papers
 
-<p class="paper-title">"<a href="http://benshaver.github.io/files/Ability BS.pdf">Signaling Ability Through Policy Change</a>." <em>R&R, Journal of Politics</em></p>
+<p class="paper-title">"<a href="http://benshaver.github.io/files/Ability BS.pdf">Signaling Ability Through Policy Change</a>." <em>R&R, Journal of Politics.</em></p>
 <div class="presentation-detail">Presentations: University of Chicago Political Science Department, University of Chicago Harris School, University of Chicago Center for Effective Government, Washington University Conference for Early Career Scholars in Theoretical Political Economy, MPSA, SIOE, and APSA</div>
 <div class="presentation-detail"><em>Honorable Mention Best APSA 2024 Formal Theory Paper</em></div>
 
@@ -41,9 +41,9 @@ image: /photos/image1.jpg
 
 <p class="paper-title">"Taking Credit, Avoiding Blame, and Delegation"</p>
 
-<p class="paper-title">"Dynamic Policy Development and Implementation," with <a href="https://daniel-gibbs.com/">Daniel Gibbs.</a></p>
+<p class="paper-title">"Dynamic Policy Development and Implementation," with <a href="https://daniel-gibbs.com/">Daniel Gibbs</a></p>.
 
-<p class="paper-title">"How Representative Are School Board Members of Local and National Public Opinion? Evidence from Paired Public and Elite Surveys and an Experiment," with <a href="https://harris.uchicago.edu/directory/adam-zelizer">Adam Zelizer.</a></p>
+<p class="paper-title">"How Representative Are School Board Members of Local and National Public Opinion? Evidence from Paired Public and Elite Surveys and an Experiment," with <a href="https://harris.uchicago.edu/directory/adam-zelizer">Adam Zelizer</a></p>.
 <div class="presentation-detail">Presentations: MPSA</div>
 
 <div style="margin-top: 30px;"></div>
