@@ -18,7 +18,7 @@ image: /photos/image1.jpg
 
 ### Published and Accepted Papers
 
-<p class="paper-title">"<a href="http://benshaver.github.io/files/Succession ADBS.pdf">A Model of Selection and Policy Concerns</a>," with <a href="https://sites.google.com/view/alvarodelgadovega/home">Álvaro Delgado-Vega</a>, conditionally accepted at the <em>Economic Journal</em></p>
+<p class="paper-title">"<a href="http://benshaver.github.io/files/Succession ADBS.pdf">A Model of Selection and Policy Concerns</a>," with <a href="https://sites.google.com/view/alvarodelgadovega/home">Álvaro Delgado-Vega</a>, <em> conditionally accepted Economic Journal</em></p>
 <div class="presentation-detail">Presentations: University of Chicago Harris School, University of Bern Economics Department, Washington University in St. Louis Political Science Department, MPSA, SIOE, and APSA</div>
 
 <p class="paper-title">"<a href="https://www.science.org/doi/10.1126/sciadv.abq2077">Randomized evaluation of a school-based, trauma-informed group intervention for young women in Chicago</a>," with <a href="https://urbanlabs.uchicago.edu/people/monica-bhatt">Monica P. Bhatt</a>, <a href="https://sites.northwestern.edu/jonathanguryan/">Jonathan Guryan</a>, <a href="https://crownschool.uchicago.edu/directory/harold-pollack">Harold A. Pollack</a>, Cris Pinto, Lucia Delgado-Sanchez, Phoebe Lin, Molly Clark, Max Lubell, Makenzi Sumners, and Juan Castrejon. <em>Science Advances</em>, 9(23), 2023.</p>
