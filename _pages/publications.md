@@ -37,11 +37,13 @@ image: /photos/image1.jpg
 
 <p class="paper-title">"<a href="http://benshaver.github.io/files/Covid Experiment.pdf">The Minimal Effects of Public Health Campaigns on Travel During the COVID Pandemic</a>," with <a href="https://adamzelizer.com/">Adam Zelizer</a>, <a href="https://voices.uchicago.edu/ethanbdm/">Ethan Bueno de Mesquita</a>, and <a href="https://www.mehdishadmehr.com/">Mehdi Shadmehr</a>. <em>R&R, Statistics and Public Policy.</em></p>
 
+<p class="paper-title">"Dynamic Policy Development and Implementation," with <a href="https://daniel-gibbs.com/">Daniel Gibbs</a>.</p>
+
 ### Work in Progress
 
 <p class="paper-title">"Taking Credit, Avoiding Blame, and Delegation"</p>
 
-<p class="paper-title">"Dynamic Policy Development and Implementation," with <a href="https://daniel-gibbs.com/">Daniel Gibbs</a>.</p>
+<p class="paper-title">"Pledges and Payoffs: Evidence from NRA Resource Allocation in Congressional Campaigns, 2009-2017," with <a href="https://gfoysutherland.com/">Gabriel Foy-Sutherland</a>.</p>
 
 <p class="paper-title">"How Representative Are School Board Members of Local and National Public Opinion? Evidence from Paired Public and Elite Surveys and an Experiment," with <a href="https://harris.uchicago.edu/directory/adam-zelizer">Adam Zelizer</a>.</p>
 <div class="presentation-detail">Presentations: MPSA</div>
