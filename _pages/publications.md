@@ -39,7 +39,7 @@ image: /photos/image1.jpg
 
 <p class="paper-title">"Dynamic Policy Development and Implementation," with <a href="https://daniel-gibbs.com/">Daniel Gibbs</a>.</p>
 
-### Work in Progress
+### Works in Progress
 
 <p class="paper-title">"Taking Credit, Avoiding Blame, and Delegation"</p>
 
