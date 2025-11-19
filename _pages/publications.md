@@ -19,8 +19,8 @@ image: /photos/image1.jpg
 ### Published and Forthcoming Papers
 
 <p class="paper-title">"<a href="http://benshaver.github.io/files/Ability BS.pdf">Signaling Ability Through Policy Change</a>." <em>Conditionall accepted, Journal of Politics.</em></p>
-<div class="presentation-detail">Presentations: University of Chicago Political Science Department, University of Chicago Harris School, University of Chicago Center for Effective Government, Washington University Conference for Early Career Scholars in Theoretical Political Economy, MPSA, SIOE, and APSA</div>
 <div class="presentation-detail"><em>Honorable Mention Best APSA 2024 Formal Theory Paper</em></div>
+<div class="presentation-detail">Presentations: University of Chicago Political Science Department, University of Chicago Harris School, University of Chicago Center for Effective Government, Washington University Conference for Early Career Scholars in Theoretical Political Economy, MPSA, SIOE, and APSA</div>
 
 <p class="paper-title">"<a href="https://academic.oup.com/ej/advance-article-abstract/doi/10.1093/ej/ueaf102/8272660?redirectedFrom=fulltext">A Model of Selection and Policy Concerns</a>," with <a href="https://sites.google.com/view/alvarodelgadovega/home">Álvaro Delgado-Vega</a>. <em> Forthcoming, Economic Journal.</em></p>
 <div class="presentation-detail">Presentations: University of Chicago Harris School, University of Bern Economics Department, Washington University in St. Louis Political Science Department, MPSA, SIOE, and APSA</div>
