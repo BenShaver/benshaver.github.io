@@ -12,6 +12,6 @@ I am a postdoctoral fellow at Northwestern University's [Kellogg School of Manag
 
 In my research, I use applied game theory to study topics at the intersection of political economy and organizational economics. 
 
-My work has been published in the *Journal of Politics*, the *Economic Journal*, and *Science Advances*. 
+My work has been published in or is forthcoming in the *Journal of Politics*, the *Economic Journal*, and *Science Advances*. 
 
 You can reach me at [benjamin.shaver@kellogg.northwestern.edu](mailto:benjamin.shaver@kellogg.northwestern.edu). 
