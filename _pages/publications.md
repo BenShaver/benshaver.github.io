@@ -29,6 +29,8 @@ image: /photos/image1.jpg
 
 ### Working Papers
 
+<p class="paper-title">"<a href="http://benshaver.github.io/files/Dynamic PDaI.pdf">Dynamic Policy Development and Implementation: An Electoral Accountability Model</a>," with <a href="https://daniel-gibbs.com/">Daniel Gibbs</a>.</p>
+
 <p class="paper-title">"<a href="http://benshaver.github.io/files/Cheap Talk BS.pdf">Cheap Talk with Costly Verification</a>." <em>Submitted.</em></p>
 <div class="presentation-detail">Presentations: MPSA, University of Chicago Harris School, and University of Chicago Center for Effective Government</div>
 
@@ -37,7 +39,6 @@ image: /photos/image1.jpg
 
 <p class="paper-title">"<a href="http://benshaver.github.io/files/Covid Experiment.pdf">The Minimal Effects of Public Health Campaigns on Travel During the COVID Pandemic</a>," with <a href="https://adamzelizer.com/">Adam Zelizer</a>, <a href="https://voices.uchicago.edu/ethanbdm/">Ethan Bueno de Mesquita</a>, and <a href="https://www.mehdishadmehr.com/">Mehdi Shadmehr</a>. <em>R&R, Statistics and Public Policy.</em></p>
 
-<p class="paper-title">"Dynamic Policy Development and Implementation: An Electoral Accountability Model," with <a href="https://daniel-gibbs.com/">Daniel Gibbs</a>.</p>
 
 ### Works in Progress
 
