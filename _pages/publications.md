@@ -30,6 +30,7 @@ image: /photos/image1.jpg
 ### Working Papers
 
 <p class="paper-title">"<a href="http://benshaver.github.io/files/Dynamic PDaI.pdf">Dynamic Policy Development and Implementation: An Electoral Accountability Model</a>," with <a href="https://daniel-gibbs.com/">Daniel Gibbs</a>.</p>
+<div class="presentation-detail">Presentations: Washington University in St. Louis Political Science Department</div>
 
 <p class="paper-title">"<a href="http://benshaver.github.io/files/Cheap Talk BS.pdf">Cheap Talk with Costly Verification</a>." <em>Submitted.</em></p>
 <div class="presentation-detail">Presentations: MPSA, University of Chicago Harris School, and University of Chicago Center for Effective Government</div>
