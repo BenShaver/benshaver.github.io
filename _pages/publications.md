@@ -7,11 +7,14 @@ image: /photos/image1.jpg
 ---
 
 <style>
+/* Paper titles: slightly larger than body text, smaller than section headers */
 .paper-title {
     margin-bottom: 2px;
     font-size: 1.05em;
+    font-weight: 500;
 }
 
+/* Presentation lines: clearly subordinate */
 .presentation-detail {
     margin-left: 40px;
     margin-top: 0;
