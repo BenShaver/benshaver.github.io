@@ -7,6 +7,7 @@ image: /photos/image2.jpg
 ---
 
 ### TA Experience, Harris School of Public Policy, University of Chicago 
+
 * Advanced Microeconomics for Public Policy Analysis II, Ph.D. Level
 * Analytical Politics I, Master’s Level
 * Analytical Politics II, Master’s Level
