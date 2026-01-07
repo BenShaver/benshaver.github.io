@@ -1,14 +1,12 @@
 ---
 layout: archive
-title: 
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 image: /photos/image3.jpg
 ---
-
-### CV
 
 You can access my CV [here](http://benshaver.github.io/files/BSCV.pdf) (Updated in December 2025).
 
