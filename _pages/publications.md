@@ -10,7 +10,7 @@ image: /photos/image1.jpg
 /* Paper titles: slightly larger than body text, but NOT bold */
 .paper-title {
     margin-bottom: 2px;
-    font-size: 1.05em;
+    font-size: 0.9em;
     font-weight: normal;
 }
 
@@ -23,7 +23,7 @@ image: /photos/image1.jpg
 .presentation-detail {
     margin-left: 40px;
     margin-top: 0;
-    font-size: 0.85em;
+    font-size: 0.8em;
     color: #666;
     line-height: 1.3;
 }
