@@ -7,14 +7,11 @@ image: /photos/image1.jpg
 ---
 
 <style>
-/* Match paper titles to h3 size (same as section headers) */
 .paper-title {
     margin-bottom: 2px;
-    font-size: var(--h3-size, 1.25em);
-    font-weight: normal;
+    font-size: 1.05em;
 }
 
-/* Make presentation lines smaller and subordinate */
 .presentation-detail {
     margin-left: 40px;
     margin-top: 0;
@@ -66,9 +63,10 @@ image: /photos/image1.jpg
 
 <p class="paper-title">"How Representative Are School Board Members of Local and National Public Opinion? Evidence from Paired Public and Elite Surveys and an Experiment," with <a href="https://harris.uchicago.edu/directory/adam-zelizer">Adam Zelizer</a>.</p>
 <div class="presentation-detail">Presentations: MPSA</div>
+
 <div style="margin-top: 30px;"></div>
- 
-| <b>Rocky Mountain National Park - Summer 2023</b>|
+
+| <b>Rocky Mountain National Park – Summer 2023</b> |
 |:--:|
-| ![]({{ page.image }}) | 
+| ![]({{ page.image }}) |
 
