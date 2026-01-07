@@ -7,14 +7,19 @@ image: /photos/image1.jpg
 ---
 
 <style>
-/* Paper titles: slightly larger than body text, smaller than section headers */
+/* Paper titles: slightly larger than body text, but NOT bold */
 .paper-title {
     margin-bottom: 2px;
     font-size: 1.05em;
-    font-weight: 500;
+    font-weight: normal;
 }
 
-/* Presentation lines: clearly subordinate */
+/* Ensure the clickable title itself isn't bolded by theme link styles */
+.paper-title a {
+    font-weight: inherit;
+}
+
+/* Presentation lines: smaller and subordinate */
 .presentation-detail {
     margin-left: 40px;
     margin-top: 0;
