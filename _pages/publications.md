@@ -7,11 +7,14 @@ image: /photos/image1.jpg
 ---
 
 <style>
+/* Match paper titles to h3 size (same as section headers) */
 .paper-title {
     margin-bottom: 2px;
-    font-size: 1.05em;
+    font-size: var(--h3-size, 1.25em);
+    font-weight: normal;
 }
 
+/* Make presentation lines smaller and subordinate */
 .presentation-detail {
     margin-left: 40px;
     margin-top: 0;
@@ -38,7 +41,7 @@ image: /photos/image1.jpg
 
 ### Working Papers
 
-<p class="paper-title">"<a href="http://benshaver.github.io/files/Dynamic PDaI.pdf">Dynamic Policy Development and Implementation: An Electoral Accountability Model</a>," with <a href="https://daniel-gibbs.com/">Daniel Gibbs</a>. <em>Submitted.</em></p>
+<p class="paper-title">"<a href="http://benshaver.github.io/files/Dynamic PDaI.pdf">Dynamic Policy Development and Implementation: An Electoral Accountability Model</a>," with <a href="https://daniel-gibbs.com/">Daniel Gibbs</a>.</p>
 <div class="presentation-detail">
     Presentations: Washington University in St. Louis Political Science Department
 </div>
@@ -63,7 +66,6 @@ image: /photos/image1.jpg
 
 <p class="paper-title">"How Representative Are School Board Members of Local and National Public Opinion? Evidence from Paired Public and Elite Surveys and an Experiment," with <a href="https://harris.uchicago.edu/directory/adam-zelizer">Adam Zelizer</a>.</p>
 <div class="presentation-detail">Presentations: MPSA</div>
-
 <div style="margin-top: 30px;"></div>
  
 | <b>Rocky Mountain National Park - Summer 2023</b>|
