@@ -51,7 +51,7 @@ image: /photos/image1.jpg
     Presentations: Washington University in St. Louis Political Science Department
 </div>
 
-<p class="paper-title">"<a href="http://benshaver.github.io/files/Cheap Talk BS.pdf">Cheap Talk with Costly Verification</a>." <em>Submitted.</em></p>
+<p class="paper-title">"<a href="http://benshaver.github.io/files/Cheap Talk BS.pdf">Cheap Talk with Costly Verification</a>." <em>R&amp;R, Journal of Theoretical Politics.</em></p>
 <div class="presentation-detail">
     Presentations: MPSA, University of Chicago Harris School, and University of Chicago Center for Effective Government
 </div>
