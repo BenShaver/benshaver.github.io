@@ -48,7 +48,7 @@ image: /photos/image1.jpg
 
 <p class="paper-title">"<a href="http://benshaver.github.io/files/Dynamic PDaI.pdf">Dynamic Policy Development and Implementation: An Electoral Accountability Model</a>," with <a href="https://daniel-gibbs.com/">Daniel Gibbs</a>.  <em>Submitted.</em></p>
 <div class="presentation-detail">
-    Presentations: Washington University in St. Louis Political Science Department
+    Presentations: Washington University in St. Louis Political Science Department, Virginia Tech, University of Chicago Harris School, MPSA and SPSA
 </div>
 
 <p class="paper-title">"<a href="http://benshaver.github.io/files/Cheap Talk BS.pdf">Cheap Talk with Costly Verification</a>." <em>R&amp;R, Journal of Theoretical Politics.</em></p>
@@ -66,8 +66,6 @@ image: /photos/image1.jpg
 ### Works in Progress
 
 <p class="paper-title">"Taking Credit, Avoiding Blame, and Delegation"</p>
-
-<p class="paper-title">"Pledges and Payoffs: Evidence from NRA Resource Allocation in Congressional Campaigns, 2009–2017," with <a href="https://gfoysutherland.com/">Gabriel Foy-Sutherland</a>.</p>
 
 <p class="paper-title">"How Representative Are School Board Members of Local and National Public Opinion? Evidence from Paired Public and Elite Surveys and an Experiment," with <a href="https://harris.uchicago.edu/directory/adam-zelizer">Adam Zelizer</a>.</p>
 <div class="presentation-detail">Presentations: MPSA</div>
