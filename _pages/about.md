@@ -12,4 +12,4 @@ I am an incoming economist at [Bates White Economic Consulting](https://www.bate
 
 In my research, I use game theory to study topics at the intersection of political economy and organizational economics, and my work has been published in or is forthcoming in the *Journal of Politics*, the *Economic Journal*, and *Science Advances*. 
 
-You can reach me at [benjamin.shaver@kellogg.northwestern.edu](mailto:benjamin.shaver@kellogg.northwestern.edu). 
+You can reach me at [bshaver0@gmail.com](mailto:bshaver0@gmail.com). 
