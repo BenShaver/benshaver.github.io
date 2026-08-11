@@ -31,6 +31,11 @@ image: /photos/image1.jpg
 
 ### Published and Forthcoming Papers
 
+<p class="paper-title">"<a href="http://benshaver.github.io/files/Cheap Talk BS.pdf">Cheap Talk with Costly Verification</a>." <em>Forthcoming, Journal of Theoretical Politics.</em></p>
+<div class="presentation-detail">
+    Presentations: MPSA, University of Chicago Harris School, and University of Chicago Center for Effective Government
+</div>
+
 <p class="paper-title">"<a href="https://www.journals.uchicago.edu/doi/10.1086/740033">Signaling Ability Through Policy Change</a>." <em>Forthcoming, Journal of Politics.</em></p>
 <div class="presentation-detail"><em>Honorable Mention Best APSA 2024 Formal Theory Paper</em></div>
 <div class="presentation-detail">
@@ -49,11 +54,6 @@ image: /photos/image1.jpg
 <p class="paper-title">"<a href="http://benshaver.github.io/files/Dynamic PDaI.pdf">Dynamic Policy Development and Implementation: An Electoral Accountability Model</a>," with <a href="https://daniel-gibbs.com/">Daniel Gibbs</a>.  <em>Submitted.</em></p>
 <div class="presentation-detail">
     Presentations: Washington University in St. Louis Political Science Department, Virginia Tech, University of Chicago Harris School, MPSA and SPSA
-</div>
-
-<p class="paper-title">"<a href="http://benshaver.github.io/files/Cheap Talk BS.pdf">Cheap Talk with Costly Verification</a>." <em>R&amp;R, Journal of Theoretical Politics.</em></p>
-<div class="presentation-detail">
-    Presentations: MPSA, University of Chicago Harris School, and University of Chicago Center for Effective Government
 </div>
 
 <p class="paper-title">"<a href="http://benshaver.github.io/files/Media DKBS.pdf">Media Freedom, Nationalist Protests, and Audience Costs</a>," with <a href="https://www.linkedin.com/in/david-krosin-76424510b/">David Krosin</a>. <em>R&amp;R, Journal of Theoretical Politics.</em></p>
