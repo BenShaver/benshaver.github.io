@@ -51,7 +51,7 @@ image: /photos/image1.jpg
 
 ### Working Papers
 
-<p class="paper-title">"<a href="http://benshaver.github.io/files/Dynamic PDaI.pdf">Dynamic Policy Development and Implementation: An Electoral Accountability Model</a>," with <a href="https://daniel-gibbs.com/">Daniel Gibbs</a>.  <em>Submitted.</em></p>
+<p class="paper-title">"<a href="http://benshaver.github.io/files/Dynamic PDaI.pdf">Dynamic Policy Development and Implementation: An Electoral Accountability Model</a>," with <a href="https://daniel-gibbs.com/">Daniel Gibbs</a>.  <em>R&amp;R, Journal of Economic Behavior and Organizaion.</em></p>
 <div class="presentation-detail">
     Presentations: Washington University in St. Louis Political Science Department, Virginia Tech, University of Chicago Harris School, MPSA and SPSA
 </div>
