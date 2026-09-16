@@ -29,9 +29,9 @@ image: /photos/image1.jpg
 }
 </style>
 
-### Published and Forthcoming Papers
+### Published, Forthcoming, and Conditionally Accepted Papers
 
-<p class="paper-title">"<a href="http://benshaver.github.io/files/Cheap Talk BS.pdf">Cheap Talk with Costly Verification</a>." <em>Forthcoming, Journal of Theoretical Politics.</em></p>
+<p class="paper-title">"<a href="http://benshaver.github.io/files/Cheap Talk BS.pdf">Cheap Talk with Costly Verification</a>." <em>Conditionally Accepted, Journal of Theoretical Politics.</em></p>
 <div class="presentation-detail">
     Presentations: MPSA, University of Chicago Harris School, and University of Chicago Center for Effective Government
 </div>
