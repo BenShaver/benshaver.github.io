@@ -29,7 +29,7 @@ image: /photos/image1.jpg
 }
 </style>
 
-### Published, Forthcoming, and Conditionally Accepted Papers
+### Published and Forthcoming Papers
 
 <p class="paper-title">"<a href="http://benshaver.github.io/files/Cheap Talk BS.pdf">Cheap Talk with Costly Verification</a>." <em>Forthcoming, Journal of Theoretical Politics.</em></p>
 <div class="presentation-detail">
